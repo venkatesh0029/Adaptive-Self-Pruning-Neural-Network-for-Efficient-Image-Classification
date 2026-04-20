@@ -368,20 +368,6 @@ Please ensure:
 
 <br/>
 
----
-
-## ✦ Citation
-
-If you use this work in your research, please cite:
-
-```bibtex
-@misc{venkatesh2024aspnn,
-  author       = {Venkatesh},
-  title        = {Adaptive Self-Pruning Neural Network for Efficient Image Classification},
-  year         = {2024},
-  howpublished = {\url{https://github.com/venkatesh0029/Adaptive-Self-Pruning-Neural-Network-for-Efficient-Image-Classification}},
-}
-```
 
 <br/>
 
@@ -393,19 +379,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <br/>
 
----
-
-## ✦ Acknowledgements
-
-This work draws on ideas from:
-
-- Han et al., *Learning both Weights and Connections for Efficient Neural Networks* (NeurIPS 2015)
-- Liu et al., *Learning Efficient Convolutional Networks through Network Slimming* (ICCV 2017)
-- Molchanov et al., *Pruning Convolutional Neural Networks for Resource Efficient Inference* (ICLR 2017)
-
-<br/>
-
----
 
 <div align="center">
 
